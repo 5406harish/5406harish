@@ -180,15 +180,6 @@ A surveillance system that converts a smartphone into a wireless CCTV camera.
 
 Besides software development, I have practical knowledge in electronics and hardware systems.
 
-### Audio Electronics
-
-- Mono Amplifier Design
-- Power Amplifiers
-- Bridge Amplifiers
-- Audio Signal Processing
-- Speaker Matching
-- Subwoofer Systems
-
 ### Power Electronics
 
 - Transformers
