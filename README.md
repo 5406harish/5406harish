@@ -22,7 +22,7 @@ Final Year Computer Science & Business Systems Student | Java Developer | AI Ent
 
 ⚡ I enjoy building projects that solve real-world problems.
 
-🔧 Apart from software, I also have hands-on experience in Electronics, Audio Amplifiers, Power Electronics and Embedded Hardware.
+🔧 Apart from software, I also have hands-on experience in Electronics, Power Electronics and Embedded Hardware.
 
 ---
 
@@ -90,76 +90,6 @@ Final Year Computer Science & Business Systems Student | Java Developer | AI Ent
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏥 AI Medical Report Analyzer
-
-An intelligent healthcare application that analyzes medical reports using Artificial Intelligence.
-
-### Features
-
-✔ OCR-based Text Extraction
-
-✔ Medical Report Analysis
-
-✔ Disease Detection Assistance
-
-✔ Medicine Identification
-
-✔ Medical Recommendations
-
-✔ Streamlit Web Interface
-
-✔ AI-generated Report Summary
-
-**Tech Used**
-
-Python
-
-Streamlit
-
-OCR (Tesseract)
-
-NLP
-
-AI Models
-
----
-
-## 🎓 IntelliClass
-
-An AI + IoT + Cloud integrated smart classroom management system.
-
-### Features
-
-✔ Smart Classroom Automation
-
-✔ AI-based Monitoring
-
-✔ Attendance Management
-
-✔ Cloud Integration
-
-✔ Intelligent Classroom Analytics
-
----
-
-## 📹 Smartphone Surveillance Camera
-
-A surveillance system that converts a smartphone into a wireless CCTV camera.
-
-### Features
-
-✔ Live Video Streaming
-
-✔ Remote Monitoring
-
-✔ Motion Observation
-
-✔ Low Cost Security Solution
-
----
-
 # 💻 Currently Learning
 
 ✔ Advanced Java
@@ -210,39 +140,11 @@ Besides software development, I have practical knowledge in electronics and hard
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=5406harish&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=5406harish&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5406harish&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=5406harish&theme=onedark&row=2&column=4"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: harishbtechcsbs@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/harish-s-75579a389/
 
 🌐 GitHub: https://github.com/5406harish
 
